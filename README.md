@@ -31,7 +31,7 @@ Creo firmemente en democratizar el conocimiento. Soy el creador y host de **[Tu 
 *   🔥 [**fortinet-hardening-templates**](#): Mis baselines y políticas "Deny All" para asegurar perímetros.
 *   ☁️ [**azure-sec-networking-sandbox**](#): IaC puro para levantar arquitecturas de red seguras en segundos.
 *   🖥️ [**proxmox-zfs-automation**](#): Scripts para domar Proxmox y ZFS sin tocar la GUI.
-*   📚 [**ciberseguridad-desde-cero**](#): Todos los laboratorios y cheat sheets de mis clases.
+*   📚 [**ciberseguridad-para-todos**](#): Todos los laboratorios y cheat sheets de mis clases.
 
 ---
 ### 📡 Transmisión de Contacto
