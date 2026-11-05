@@ -30,7 +30,7 @@ Creo firmemente en democratizar el conocimiento. Soy el creador y host de **[Tu 
 
 *   🔥 [**fortinet-hardening-templates**](https://github.com/DarthChelo/fortinet-hardening-templates): Mis baselines y políticas "Deny All" para asegurar perímetros.
 *   ☁️ [**azure-sec-networking-sandbox**](#): IaC puro para levantar arquitecturas de red seguras en segundos.
-*   🖥️ [**proxmox-zfs-automation**](#): Scripts para domar Proxmox y ZFS sin tocar la GUI.
+*   🖥️ [**proxmox-zfs-automation**](https://github.com/DarthChelo/proxmox-zfs-automation)): Scripts para domar Proxmox y ZFS sin tocar la GUI.
 *   📚 [**ciberseguridad-para-todos**](https://github.com/DarthChelo/ciberseguridad-para-todos): Todos los laboratorios y cheat sheets de mis clases.
 
 ---
