@@ -35,7 +35,7 @@ Creo firmemente en democratizar el conocimiento. Soy el creador y host de **[Tu 
 
 ---
 ### 📡 Transmisión de Contacto
-*   **Ping:** `bugallomarcelo@gmail.com`
+*   **Ping:** `bugallomarcelo+git@gmail.com`
 *   **Broadcast:** [YouTube - Tu Defensa Digital](https://www.youtube.com/@TuDefensaDigital)
 *   **Handshake:** [LinkedIn](https://linkedin.com/in/mbugallo/)
 
