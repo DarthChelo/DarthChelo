@@ -19,7 +19,7 @@ Hola, soy **Marcelo Bugallo (DarthChelo)**. Radicado en Avellaneda, Argentina, d
 Mi infraestructura local es donde ocurre la magia (y donde rompo cosas a propósito). Operando 24/7 sobre:
 
 *   **Hypervisors & OS:** Proxmox VE. En mis equipos personales, siempre Linux (Ubuntu MATE, Arch Linux + Hyprland en Wayland).
-*   **Storage Core:** QNAP TS-473A respaldado por la solidez de ZFS (QuTS hero).
+*   **Storage Core:** TrueNAS con OpenZFS.
 *   **Networking & Defense:** Firewalls Fortinet, segmentación de red agresiva (Zero Trust) y automatización ruda con PowerShell y Bash.
 *   **Cloud Sandbox:** Entornos híbridos de prueba destruibles en AWS y Microsoft Azure.
 
